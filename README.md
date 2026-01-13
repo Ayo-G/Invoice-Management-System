@@ -28,7 +28,7 @@ Invoice-Management-System/
 * [`code/`](./code) contains all Google Apps Script and HTML files used to power the system.
 * [`config/SETUP_GUIDE.md`](./config/setup_guide.md) documents how to recreate the setup in Google Sheets and Apps Script.
 * [`samples/`](./samples) contains a sample PDF output.
-* `screenshots/` contains images related to the system (no assumptions are made about their content).
+* [`screenshots/`](./screenshots) contains images related to the system (no assumptions are made about their content).
 
 ---
 
